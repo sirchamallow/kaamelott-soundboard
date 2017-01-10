@@ -1,7 +1,7 @@
 {
-  "name": "kaamelott-soundboard",
-  "version": "1.0.0",
-  "description": "Quelques-unes des meilleures répliques sonores de Kaamelott. C'était ça ou chante Sloubi.",
+  "name": "lesbronzesfontduski-soundboard",
+  "version": "1.0",
+  "description": "Les meilleures répliques sonores du film culte Les Bronzés font du ski",
   "main": "js/app/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,15 +11,15 @@
     "url": "git://github.com/2ec0b4/kaamelott-soundboard"
   },
   "keywords": [
-    "kaamelott",
+    "les bronzes font du ski",
     "soundboard"
   ],
-  "author": "Antoine @2ec0b4",
+  "author": "sirchamallow",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2ec0b4/kaamelott-soundboard/issues"
+    "url": "https://github.com/sirchamallow/lesbronzesfontduski-soundboard/issues"
   },
-  "homepage": "https://github.com/2ec0b4/kaamelott-soundboard#readme",
+  "homepage": "https://github.com/sirchamallow/lesbronzesfontduski-soundboard#readme",
   "devDependencies": {
     "del": "^2.2.0",
     "gulp": "^3.9.1",
