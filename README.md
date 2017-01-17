@@ -4,8 +4,8 @@ J'ai trouvé quelques sites perso regroupant des répliques sonores du film fran
 
 Vous pouvez toujours proposer d'autres sons en contribuant à ce dépôt en proposant une fusiodemande.
 
-/!\ Le soundboard est un fork du "Kaamelott-Soundboard" de @2ec0b4 /!\
-https://github.com/2ec0b4/kaamelott-soundboard
+**/!\ Le soundboard est un fork du "Kaamelott-Soundboard" de @2ec0b4 /!\
+https://github.com/2ec0b4/kaamelott-soundboard**
 
 ## Lancer le projet ##
 
